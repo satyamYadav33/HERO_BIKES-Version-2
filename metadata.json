@@ -1,0 +1,7 @@
+{
+  "name": "Hero Bikes - Modern Showroom",
+  "description": "A high-end, responsive bike showroom application for Hero Bikes featuring a bike model explorer, side-by-side comparison, test ride booking, and an AI-powered bike consultant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
